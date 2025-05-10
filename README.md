@@ -9,6 +9,8 @@ using  React.js + Vite
 # For UI/UX
 used Tailwindcss + shadcn/ui
 
+Mobile responsive layout
+
 # For Animation
 used Framer motion 
 
