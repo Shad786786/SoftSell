@@ -13,7 +13,7 @@ export default function Chatbot() {
     setMessages([...messages, { from: "user", text: input }]);
     setInput("");
     setTimeout(() => {
-      setMessages((prev) => [...prev, { from: "bot", text: "Thanks for your message we will get you back shortly!" }]);
+      setMessages((prev) => [...prev, { from: "bot", text: "Thanks for your message we will get back to you shortly!" }]);
     }, 1000);
   };
 
