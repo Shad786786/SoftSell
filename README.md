@@ -14,6 +14,9 @@ used Framer motion
 
 # Features
 ---Light/dark mode toggle
+
 ---animations on text and containers
+
 ---used Logo placeholder
+
 ---Chatbot
